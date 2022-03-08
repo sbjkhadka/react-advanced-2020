@@ -19,8 +19,8 @@ function App() {
       {/* <UseStateCounter /> */}
       {/* <BirthdayList /> */}
       {/* <UseEffectBasics /> */}
-      <UseEffectCleanup />
-      {/* <UseEffectFetchData /> */}
+      {/* <UseEffectCleanup /> */}
+      <UseEffectFetchData />
     </div>
   );
 }
